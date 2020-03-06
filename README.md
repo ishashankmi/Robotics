@@ -1,6 +1,6 @@
 # Controlling Robotic Car Via Intranet
 
-Controller program are written in Python3 and Web uses pure js with ajax, server side codes are written in PhP.
+Controller program are written in Python3 and Web using pure js with ajax,css & html, server side codes are written in PhP and db is phpMyadmin with mysqli.
 
 ## Requirements
 
